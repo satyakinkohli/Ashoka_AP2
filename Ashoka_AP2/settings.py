@@ -25,7 +25,7 @@ SECRET_KEY = 'hkbqm+*8gvl*t6ez7=8gi7s22uh3#pah4r3w0!wdipiet&oe(@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['ashoka-ap2.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['ashoka-ap2.herokuapp.com', '*', '127.0.0.1']
 
 
 # Application definition
